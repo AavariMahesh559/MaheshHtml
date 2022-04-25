@@ -1,9 +1,10 @@
 <html>
 <body>
-<h1>Welcome To Wissen infotech by Balaji Eka</h1>
-<h2>This is the sample Web Application created by Batch 06 </h2> 
+<h1>Welcome To Wissen infotech </h1>
+<h2>This is the sample Web Application created by Mahesh Aavari </h2> 
+<h3> Bangalore AWS Batch</h3>
 </body>
-<body style="color:green;">
+<body style="color:blue;">
  <div class="container">
     <label for="uname"><b>Username:    </b></label>
     <input type="text" placeholder="UserName" name="uname" required>
@@ -14,11 +15,11 @@
    <button type="submit">Login</button>
    <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
 <style>
-body {background-color: Gold;}
+body {background-color: DarkBlue;}
 
 h1
 {
-  color:magenta;
+  color:blue;
   text-align:center;
 }
 h2
